@@ -27,7 +27,7 @@ For any questions or further details, please get in touch with:
 
 - **Project Supervisor**: T. Nagarjuna, [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/dr-nagarjuna-telagam-8104b0188/)
 - **NextGen Connectivity Lab**, GITAM University, Bangalore
-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mcmokshith391&show_icons=true&locale=en" alt="mcmokshith391" /></p>
+- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=McMoKsHiTh391&show_icons=true&locale=en" alt="McMoKsHiTh391" /></p>
 
 
 
